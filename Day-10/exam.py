@@ -74,7 +74,7 @@ else:
 #         print(f"{name} did't write the exam.Bring your parents")
 # else:
 #     print(f"{name}'s data is not found")
-
+# This just one of the output
 budget=int(input("Enter the budget: "))
 if budget > 50000:
     print("you can go for the trip")
